@@ -54,7 +54,7 @@ Most of my time goes into LLM agents, RAG systems, reinforcement learning for tr
 
 **🤖 Multi-Agent AI Hedge Fund**
 
-Nineteen AI agents — each built around a real investing legend like Buffett, Munger, Peter Lynch, Michael Burry, Cathie Wood, and Druckenmiller — work together to analyze stocks, run valuations, assess risk, and output trading decisions. Has both a full web app and a CLI.
+Nineteen AI agents, each built around a real investing legend like Buffett, Munger, Peter Lynch, Michael Burry, Cathie Wood, and Druckenmiller — work together to analyze stocks, run valuations, assess risk, and output trading decisions. Has both a full web app and a CLI.
 
 Tech: LangChain, OpenAI, FastAPI, React, Docker, Poetry
 
@@ -64,7 +64,7 @@ Tech: LangChain, OpenAI, FastAPI, React, Docker, Poetry
 
 **📈 Reinforcement Learning Trading Bot**
 
-A multi-asset Q-Learning agent that trades AAPL, MSFT, GOOGL, and SPY simultaneously — going long, short, holding, or closing each position independently. Uses an 11-dimensional state vector including RSI, MACD, Bollinger Bands, ATR, and unrealised PnL. Validated through 4-fold walk-forward evaluation with full transaction cost modelling built in.
+A multi-asset Q-Learning agent that trades AAPL, MSFT, GOOGL, and SPY simultaneously, going long, short, holding, or closing each position independently. Uses an 11-dimensional state vector including RSI, MACD, Bollinger Bands, ATR, and unrealised PnL. Validated through 4-fold walk-forward evaluation with full transaction cost modelling built in.
 
 Tech: Python, Q-Learning, yfinance, NumPy, Pandas, Matplotlib
 
@@ -148,13 +148,15 @@ An AI system for combat sports analysis: MediaPipe pose estimation feeds into fi
 
 ## 📬 Let's connect
 
-If you have a role, a project, or just something interesting you're building — I'm always open to a conversation.
+If you have a role, a project, or just something interesting you're building, I'm always open to a conversation.
 
 📧 [maahinosahan123@gmail.com](mailto:maahinosahan123@gmail.com)
 💼 [linkedin.com/in/maahin-bir-singh-osahan](https://linkedin.com/in/maahin-bir-singh-osahan)
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <i>"Play long-term games with long-term people. All returns in life, whether in wealth, relationships, or knowledge, come from compound interest."</i>
+  <br><br>
+  <b>— Naval Ravikant</b>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer&animation=fadeIn" />
