@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=header&text=Maahin%20Osahan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=header&text=Maahin%20Bir%20Singh%20Osahan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=ML+%2F+AI+Engineer;LLM+Agents+%7C+RAG+Pipelines+%7C+AI+Automation;RL+%7C+Quant+Trading+Systems;Founder+%40FlowerCookie alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=ML+%2F+AI+Engineer;LLM+Agents+%7C+RAG+Pipelines+%7C+AI+Automation;RL+%7C+Quant+Trading+Systems;Founder+%40FlowerCookie" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,20 +11,18 @@
   &nbsp;
   <a href="mailto:maahinosahan123@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail" /></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20Roles-3fb950?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Freelance-Available-bc8cff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Full%20Time%20%7C%20Remote%20%7C%20Freelance-3fb950?style=flat-square" />
 </p>
 
----
+<br>
 
 ## 🧠 About me
 
-I'm a **2025 B.Tech CSE grad from GNDU Amritsar**, currently enrolled in an **AI/ML credit program with IIT Guwahati**. I build production-grade AI systems — not just notebooks, but things that actually deploy and run.
+I'm a 2025 B.Tech CSE grad from GNDU Amritsar, currently doing an AI/ML credit program with IIT Guwahati. I like building things that actually work in production, not just demos.
 
-My work spans **LLM agents, RAG pipelines, reinforcement learning for trading, quantitative finance systems**, and AI automation workflows and currently building a venture — **FlowerCookie** in active production.
+Most of my time goes into LLM agents, RAG systems, reinforcement learning for trading, and AI automation pipelines. I've shipped real systems across fintech, healthcare, and EdTech. Right now I'm running FlowerCookie, an AI automation studio, and actively looking for full-time, remote, or freelance ML/AI opportunities.
 
----
+<br>
 
 ## ⚙️ Tech stack
 
@@ -32,63 +30,85 @@ My work spans **LLM agents, RAG pipelines, reinforcement learning for trading, q
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,react,ts,js,docker,kubernetes,postgres,mongodb,redis,supabase,linux,git,github,vscode,figma&theme=dark&perline=10" />
 </p>
 
-| Area | Tools |
-|---|---|
-| **LLM / GenAI** | LangChain · OpenAI API · HuggingFace · FAISS · RAG · Prompt Engineering · DeepSeek · Groq |
-| **ML / RL / DL** | PyTorch · scikit-learn · XGBoost · Random Forest · Q-Learning · DQN · Whisper · YOLOv5 · CLIP |
-| **Quant / Finance** | yfinance · Pandas · NumPy · Backtesting · Sharpe/Sortino · Walk-Forward Validation · AngelOne API |
-| **Backend** | FastAPI · Flask · PostgreSQL · MongoDB · Redis · Supabase · Socket.IO · REST APIs · Celery |
-| **Automation** | n8n · GitHub Actions · Webhooks · LangChain Agents · Tool Chaining · MCP |
-| **DevOps** | Docker · Kubernetes · Heroku · Helm · CI/CD · Linux |
-| **Frontend** | React · Streamlit · TypeScript · JavaScript · HTML/CSS |
-| **Data** | Pandas · NumPy · Matplotlib · Seaborn · YAML · JSON |
+<br>
 
----
+**LLM and GenAI** — LangChain, OpenAI API, HuggingFace, FAISS, RAG pipelines, Prompt Engineering, DeepSeek, Groq
+
+**ML, RL and DL** — PyTorch, scikit-learn, XGBoost, Random Forest, Q-Learning, DQN, Whisper, YOLOv5, CLIP
+
+**Quant and Finance** — yfinance, backtesting frameworks, Sharpe and Sortino ratios, walk-forward validation, AngelOne API
+
+**Backend** — FastAPI, Flask, PostgreSQL, MongoDB, Redis, Supabase, Socket.IO, REST APIs, Celery
+
+**Automation** — n8n, GitHub Actions, LangChain Agents, Tool Chaining, MCP, Webhooks
+
+**DevOps** — Docker, Kubernetes, Heroku, Helm, CI/CD, Linux
+
+**Frontend** — React, Streamlit, TypeScript, JavaScript, HTML and CSS
+
+**Data** — Pandas, NumPy, Matplotlib, Seaborn, YAML, JSON
+
+<br>
 
 ## 🚀 Featured projects
 
-### 🤖 Multi-Agent AI Hedge Fund
-> Multi-agent system where 19 AI agents — each modelled after a legendary investor (Buffett, Munger, Peter Lynch, Michael Burry, Cathie Wood, Druckenmiller + more) — collaborate to analyze stocks, run valuations, assess risk, and make portfolio decisions. Full web app + CLI.  
-`LangChain` `OpenAI` `FastAPI` `React` `Docker` `Poetry`  
-🔗 [github.com/maahin-1/ai-hedge-fund](https://github.com/maahin-1/ai-hedge-fund)
+**🤖 Multi-Agent AI Hedge Fund**
 
----
+Nineteen AI agents — each built around a real investing legend like Buffett, Munger, Peter Lynch, Michael Burry, Cathie Wood, and Druckenmiller — work together to analyze stocks, run valuations, assess risk, and output trading decisions. Has both a full web app and a CLI.
 
-### 📈 Reinforcement Learning Trading Bot
-> Multi-asset Q-Learning trading agent that goes long, short, holds, or closes across AAPL, MSFT, GOOGL, SPY simultaneously. Trained with an 11-dimensional state vector (RSI, MACD, Bollinger Bands, ATR, unrealised PnL) and validated via 4-fold walk-forward evaluation. Full transaction cost modelling (0.1% commission + 0.05% slippage).  
-`Python` `Q-Learning` `yfinance` `NumPy` `Pandas` `Matplotlib`  
-🔗 [github.com/maahin-1/Reinforcement-Learning-Trading-Bot](https://github.com/maahin-1/Reinforcement-Learning-Trading-Bot)
+Tech: LangChain, OpenAI, FastAPI, React, Docker, Poetry
 
----
+👉 [github.com/maahin-1/ai-hedge-fund](https://github.com/maahin-1/ai-hedge-fund)
 
-### 📊 Portfolio Efficient Frontier + GBM Simulator
-> Markowitz Efficient Frontier visualizer with Geometric Brownian Motion path simulation. Models optimal risk-return tradeoff across multi-asset portfolios. Includes a full limit order book simulator and stochastic price path generation.  
-`Python` `NumPy` `Matplotlib` `Seaborn` `SciPy`  
-🔗 [github.com/maahin-1/Portfolio-Efficient-Frontier](https://github.com/maahin-1/Portfolio-Efficient-Frontier)
+<br>
 
----
+**📈 Reinforcement Learning Trading Bot**
 
-### 🧠 Multi-Agent AI Content Interaction Platform
-> Modular AI agents for PDFs, videos, and websites using Whisper, YOLOv5, and CLIP. LangChain + DeepSeekR1 RAG pipeline with **93% semantic retrieval accuracy** and sub-2s Q&A latency. Indexed in FAISS + PostgreSQL.  
-`LangChain` `FAISS` `FastAPI` `Supabase` `React` `HuggingFace`
+A multi-asset Q-Learning agent that trades AAPL, MSFT, GOOGL, and SPY simultaneously — going long, short, holding, or closing each position independently. Uses an 11-dimensional state vector including RSI, MACD, Bollinger Bands, ATR, and unrealised PnL. Validated through 4-fold walk-forward evaluation with full transaction cost modelling built in.
 
----
+Tech: Python, Q-Learning, yfinance, NumPy, Pandas, Matplotlib
 
-### 🏥 Staff Scheduling Optimizer
-> MILP optimization for 75+ healthcare staff across 3 departments under 12+ real-world constraints. **18% overtime cost reduction**, **22% shift fairness improvement**. Interactive Streamlit dashboard with heatmaps and report exports.  
-`PuLP` `Streamlit` `Pandas` `Docker` `Heroku`
+👉 [github.com/maahin-1/Reinforcement-Learning-Trading-Bot](https://github.com/maahin-1/Reinforcement-Learning-Trading-Bot)
 
----
+<br>
+
+**📊 Portfolio Efficient Frontier and GBM Simulator**
+
+A Markowitz Efficient Frontier visualizer paired with Geometric Brownian Motion path simulation. Shows the optimal risk-return tradeoff across a multi-asset portfolio. Also includes a limit order book simulator for modelling market microstructure.
+
+Tech: Python, NumPy, Matplotlib, Seaborn, SciPy
+
+👉 [github.com/maahin-1/Portfolio-Efficient-Frontier](https://github.com/maahin-1/Portfolio-Efficient-Frontier)
+
+<br>
+
+**🧠 Multi-Agent AI Content Platform**
+
+Modular AI agents that handle PDFs, videos, and websites using Whisper, YOLOv5, and CLIP. Backed by a LangChain and DeepSeekR1 RAG pipeline hitting 93% semantic retrieval accuracy with sub-2 second Q&A latency. Indexed in FAISS and PostgreSQL.
+
+Tech: LangChain, FAISS, FastAPI, Supabase, React, HuggingFace
+
+<br>
+
+**🏥 Staff Scheduling Optimizer**
+
+A MILP optimization system for scheduling 75+ healthcare staff across 3 departments under 12 real-world constraints. Cut overtime costs by 18% and improved shift fairness by 22%. Ships with an interactive Streamlit dashboard with heatmaps and export functionality.
+
+Tech: PuLP, Streamlit, Pandas, Docker, Heroku
+
+<br>
 
 ## 🔨 Currently building
 
-**🍪 FlowerCookie — AI Automation Studio**  
-End-to-end AI automation pipelines for businesses. WhatsApp AI agents with LangChain architecture, session memory, confidence-based routing, and Google Sheets knowledge bases. Currently serving EdTech clients.
+**🍪 FlowerCookie — AI Automation Studio**
 
-**🥊 CombatIQ — Sports AI Platform**  
-Three-layer hybrid AI for combat sports: MediaPipe pose estimation → fine-tuned video models → LLM coaching reports. Covering boxing, Muay Thai, BJJ, wrestling & MMA. Full PRD shipped, model pipeline in progress.
+Building AI automation pipelines for businesses — WhatsApp agents with LangChain, session memory, confidence-based routing, and live Google Sheets knowledge bases. Currently working with EdTech clients.
 
----
+**🥊 CombatIQ — Sports AI Platform**
+
+An AI system for combat sports analysis: MediaPipe pose estimation feeds into fine-tuned video models which output LLM coaching reports. Covers boxing, Muay Thai, BJJ, wrestling, and MMA. PRD is done, model pipeline is being built now.
+
+<br>
 
 ## 📊 GitHub stats
 
@@ -101,7 +121,7 @@ Three-layer hybrid AI for combat sports: MediaPipe pose estimation → fine-tune
   <img src="https://streak-stats.demolab.com?user=maahin-1&theme=github-dark-blue&hide_border=true" />
 </p>
 
----
+<br>
 
 ## 🏆 Trophies
 
@@ -109,13 +129,13 @@ Three-layer hybrid AI for combat sports: MediaPipe pose estimation → fine-tune
   <img src="https://github-profile-trophy.vercel.app/?username=maahin-1&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
 
----
+<br>
 
 ## 📈 Activity
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maahin-1&theme=github-compact&hide_border=true&area=true" />
 
----
+<br>
 
 ## 🐍 Contribution snake
 
@@ -124,13 +144,13 @@ Three-layer hybrid AI for combat sports: MediaPipe pose estimation → fine-tune
   <img src="https://raw.githubusercontent.com/maahin-1/maahin-1/output/github-snake.svg" />
 </picture>
 
----
+<br>
 
 ## 📬 Let's connect
 
-If you have a remote ML/AI role, a freelance project, or you're building something interesting — reach out. I reply fast.
+If you have a role, a project, or just something interesting you're building — I'm always open to a conversation.
 
-📧 [maahinosahan123@gmail.com](mailto:maahinosahan123@gmail.com)  
+📧 [maahinosahan123@gmail.com](mailto:maahinosahan123@gmail.com)
 💼 [linkedin.com/in/maahin-bir-singh-osahan](https://linkedin.com/in/maahin-bir-singh-osahan)
 
 <p align="center">
@@ -138,3 +158,4 @@ If you have a remote ML/AI role, a freelance project, or you're building somethi
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer&animation=fadeIn" />
+
