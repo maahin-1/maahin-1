@@ -54,7 +54,7 @@ Most of my time goes into LLM agents, RAG systems, reinforcement learning for tr
 
 **🤖 Multi-Agent AI Hedge Fund**
 
-Nineteen AI agents, each built around a real investing legend like Buffett, Munger, Peter Lynch, Michael Burry, Cathie Wood, and Druckenmiller — work together to analyze stocks, run valuations, assess risk, and output trading decisions. Has both a full web app and a CLI.
+Nineteen AI agents, each built around a real investing legend like Buffett, Munger, Peter Lynch, Michael Burry, Cathie Wood, and Druckenmiller work together to analyze stocks, run valuations, assess risk, and output trading decisions. Has both a full web app and a CLI.
 
 Tech: LangChain, OpenAI, FastAPI, React, Docker, Poetry
 
