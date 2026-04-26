@@ -82,19 +82,23 @@ Tech: Python, NumPy, Matplotlib, Seaborn, SciPy
 
 <br>
 
-**🧠 Multi-Agent AI Content Platform**
+**🏏 IPL Predictive Intelligence Engine**
 
-Modular AI agents that handle PDFs, videos, and websites using Whisper, YOLOv5, and CLIP. Backed by a LangChain and DeepSeekR1 RAG pipeline hitting 93% semantic retrieval accuracy with sub-2 second Q&A latency. Indexed in FAISS and PostgreSQL.
+A real-time AI system that predicts IPL match winners, season champions, and playoff qualifiers — built as a backend intelligence layer for a fantasy sports platform. Uses a three-layer stacked ensemble: four base ML models feed into an XGBoost meta-learner, which then passes a calibrated win probability to an LLM that generates match narratives, confidence tags, risk flags, and fantasy captain picks. Outputs 11 live signals via REST, WebSocket, and webhooks with an end-to-end latency SLA under 30 seconds.
 
-Tech: LangChain, FAISS, FastAPI, Supabase, React, HuggingFace
+Tech: Python, XGBoost, LightGBM, FastAPI, Kafka, Redis, Claude API, Feast, MLflow
+
+👉 [github.com/maahin-1/IPL-Winner-Predictor](https://github.com/maahin-1/IPL-Winner-Predictor)
 
 <br>
 
-**🏥 Staff Scheduling Optimizer**
+**👤 Real-Time Face Recognition System**
 
-A MILP optimization system for scheduling 75+ healthcare staff across 3 departments under 12 real-world constraints. Cut overtime costs by 18% and improved shift fairness by 22%. Ships with an interactive Streamlit dashboard with heatmaps and export functionality.
+A live webcam face recognition system built on OpenCV's LBPH recognizer. A training script processes labeled face images to build a custom recognition model, which then runs in real time detecting faces, eyes, and smiles with identity labeling at every frame. Trained on a custom dataset organized per person with Haar Cascade XML classifiers.
 
-Tech: PuLP, Streamlit, Pandas, Docker, Heroku
+Tech: Python, OpenCV, LBPH, NumPy, Pillow
+
+👉 [github.com/maahin-1/Face-Recognition](https://github.com/maahin-1/Face-Recognition)
 
 <br>
 
