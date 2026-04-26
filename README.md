@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=header&text=Maahin%20Bir%20Singh%20Osahan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=ML+%2F+AI+Engineer;LLM+Agents+%7C+RAG+Pipelines+%7C+AI+Automation;RL+%7C+Quant+Trading+Systems;Founder+%40FlowerCookie" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=ML+%2F+AI+Engineer;LLM+Agents+%7C+RAG+Pipelines+%7C+AI+Automation;RL+%7C+Quant+Trading+Systems;Building+%40FlowerCookie" alt="Typing SVG" />
 </p>
 
 <p align="center">
