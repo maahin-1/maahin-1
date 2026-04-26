@@ -84,7 +84,7 @@ Tech: Python, NumPy, Matplotlib, Seaborn, SciPy
 
 **🏏 IPL Predictive Intelligence Engine**
 
-A real-time AI system that predicts IPL match winners, season champions, and playoff qualifiers — built as a backend intelligence layer for a fantasy sports platform. Uses a three-layer stacked ensemble: four base ML models feed into an XGBoost meta-learner, which then passes a calibrated win probability to an LLM that generates match narratives, confidence tags, risk flags, and fantasy captain picks. Outputs 11 live signals via REST, WebSocket, and webhooks with an end-to-end latency SLA under 30 seconds.
+A real-time AI system that predicts IPL match winners, season champions, and playoff qualifiers, built as a backend intelligence layer for a fantasy sports platform. Uses a three-layer stacked ensemble: four base ML models feed into an XGBoost meta-learner, which then passes a calibrated win probability to an LLM that generates match narratives, confidence tags, risk flags, and fantasy captain picks. Outputs 11 live signals via REST, WebSocket, and webhooks with an end-to-end latency SLA under 30 seconds.
 
 Tech: Python, XGBoost, LightGBM, FastAPI, Kafka, Redis, Claude API, Feast, MLflow
 
