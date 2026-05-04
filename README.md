@@ -20,7 +20,7 @@
 
 ## 🧠 About me
 
-CS grad from GNDU Amritsar, currently in the IIT Guwahati AI/ML program. I spend most of my time writing code that ends up in production — LLM agents, trading systems, RAG pipelines, automation workflows. Not just experiments.
+CS grad from GNDU Amritsar, currently in the IIT Guwahati AI/ML program. I spend most of my time writing code that ends up in production of LLM agents, trading systems, RAG pipelines, automation workflows. Not just experiments.
 
 I started FlowerCookie to help businesses stop wasting time on repetitive work. Before that I spent time in fintech R&D, building AI tools for web platforms, and training models at Outlier AI. Somewhere in between I won a GenAI case competition at IIM Mumbai and MIT, which was a good reminder that the work was going somewhere.
 
@@ -58,7 +58,7 @@ Right now I'm looking for full-time, remote, or freelance roles where I can work
 
 **🤖 Multi-Agent AI Hedge Fund**
 
-Nineteen agents, each one wired to think like a different investing legend — Buffett, Munger, Lynch, Burry, Wood, Druckenmiller. They argue with each other, run valuations, score risk, and land on a decision together. Ships as a web app and a CLI.
+Nineteen agents, each one wired to think like a different investing legend Buffett, Munger, Lynch, Burry, Wood, Druckenmiller. They argue with each other, run valuations, score risk, and land on a decision together. Ships as a web app and a CLI.
 
 Tech: LangChain, LangGraph, OpenAI, FastAPI, React, Docker
 
@@ -68,7 +68,7 @@ Tech: LangChain, LangGraph, OpenAI, FastAPI, React, Docker
 
 **📈 Reinforcement Learning Trading Bot**
 
-Trades AAPL, MSFT, GOOGL and SPY at the same time using a Q-Learning agent that can go long, short, hold or close on each independently. Built on an 11-feature state vector — RSI, MACD, Bollinger Bands, ATR, unrealised PnL — tested with 4-fold walk-forward validation and full transaction cost modelling.
+Trades AAPL, MSFT, GOOGL and SPY at the same time using a Q-Learning agent that can go long, short, hold or close on each independently. Built on an 11-feature state vector RSI, MACD, Bollinger Bands, ATR, unrealised PnL — tested with 4-fold walk-forward validation and full transaction cost modelling.
 
 Tech: Python, Q-Learning, DQN, yfinance, NumPy, Pandas
 
@@ -98,7 +98,7 @@ Tech: Python, XGBoost, LightGBM, FastAPI, Kafka, Redis, Claude API, MLflow
 
 **👤 Real-Time Face Recognition System**
 
-Live webcam face recognition using OpenCV's LBPH recognizer. Processes labeled face images to train a custom model, then runs in real time — detecting faces, eyes and smiles with identity labels on every frame.
+Live webcam face recognition using OpenCV's LBPH recognizer. Processes labeled face images to train a custom model, then runs in real time detecting faces, eyes and smiles with identity labels on every frame.
 
 Tech: Python, OpenCV, LBPH, NumPy, Pillow
 
@@ -111,10 +111,6 @@ Tech: Python, OpenCV, LBPH, NumPy, Pillow
 **🍪 FlowerCookie — AI Automation Studio**
 
 Automation pipelines for businesses that are tired of doing the same thing manually. WhatsApp agents with memory, routing logic, and live Google Sheets knowledge bases. Working with EdTech clients right now.
-
-**🥊 CombatIQ — Sports AI Platform**
-
-AI coaching for combat sports. MediaPipe pose estimation goes into fine-tuned video models, output is an LLM-generated coaching report. Boxing, Muay Thai, BJJ, wrestling, MMA. PRD done, pipeline in progress.
 
 <br>
 
