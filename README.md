@@ -143,9 +143,10 @@ An AI system for combat sports analysis: MediaPipe pose estimation feeds into fi
 
 ## 🐍 Contribution snake
 
-![Snake Animation](https://github.com/maahin-1/maahin-1/blob/output/github-contribution-grid-snake.svg)
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maahin-1/maahin-1/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/maahin-1/maahin-1/output/github-snake.svg" />
+</picture>
 <br>
 
 ## 📬 Let's connect
