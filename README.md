@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=header&text=Maahin%20Bir%20Singh%20Osahan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=header&text=Maahin%20Bir%20Singh%20Osahan&fontSize=38&fontColor=58A6FF&animation=fadeIn&fontAlignY=70" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=ML+%2F+AI+Engineer;LLM+Agents+%7C+RAG+Pipelines+%7C+AI+Automation;RL+%7C+Quant+Trading+Systems;Building+%40FlowerCookie" alt="Typing SVG" />
@@ -14,13 +14,17 @@
   <img src="https://img.shields.io/badge/Open%20to-Full%20Time%20%7C%20Remote%20%7C%20Freelance-3fb950?style=flat-square" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 <br>
 
 ## 🧠 About me
 
-I'm a 2025 B.Tech CSE grad from GNDU Amritsar, currently doing an AI/ML credit program with IIT Guwahati. I like building things that actually work in production, not just demos.
+CS grad from GNDU Amritsar, currently in the IIT Guwahati AI/ML program. I spend most of my time writing code that ends up in production — LLM agents, trading systems, RAG pipelines, automation workflows. Not just experiments.
 
-Most of my time goes into LLM agents, RAG systems, reinforcement learning for trading, and AI automation pipelines. I've shipped real systems across fintech, healthcare, and EdTech. Right now I'm running FlowerCookie, an AI automation studio, and actively looking for full-time, remote, or freelance ML/AI opportunities.
+I started FlowerCookie to help businesses stop wasting time on repetitive work. Before that I spent time in fintech R&D, building AI tools for web platforms, and training models at Outlier AI. Somewhere in between I won a GenAI case competition at IIM Mumbai and MIT, which was a good reminder that the work was going somewhere.
+
+Right now I'm looking for full-time, remote, or freelance roles where I can work on hard ML problems with people who actually care about shipping.
 
 <br>
 
@@ -32,11 +36,11 @@ Most of my time goes into LLM agents, RAG systems, reinforcement learning for tr
 
 <br>
 
-**LLM and GenAI** — LangChain, OpenAI API, HuggingFace, FAISS, RAG pipelines, Prompt Engineering, DeepSeek, Groq
+**LLM and GenAI** — LangChain, LangGraph, Google ADK, OpenAI API, HuggingFace, FAISS, RAG Pipelines, Prompt Engineering, DeepSeek, Groq
 
-**ML, RL and DL** — PyTorch, scikit-learn, XGBoost, Random Forest, Q-Learning, DQN, Whisper, YOLOv5, CLIP
+**ML, RL and DL** — PyTorch, TensorFlow, scikit-learn, XGBoost, LightGBM, Q-Learning, DQN, Whisper, YOLOv5, CLIP
 
-**Quant and Finance** — yfinance, backtesting frameworks, Sharpe and Sortino ratios, walk-forward validation, AngelOne API
+**Quant and Finance** — yfinance, backtesting, Sharpe and Sortino ratios, walk-forward validation, AngelOne API
 
 **Backend** — FastAPI, Flask, PostgreSQL, MongoDB, Redis, Supabase, Socket.IO, REST APIs, Celery
 
@@ -54,9 +58,9 @@ Most of my time goes into LLM agents, RAG systems, reinforcement learning for tr
 
 **🤖 Multi-Agent AI Hedge Fund**
 
-Nineteen AI agents, each built around a real investing legend like Buffett, Munger, Peter Lynch, Michael Burry, Cathie Wood, and Druckenmiller work together to analyze stocks, run valuations, assess risk, and output trading decisions. Has both a full web app and a CLI.
+Nineteen agents, each one wired to think like a different investing legend — Buffett, Munger, Lynch, Burry, Wood, Druckenmiller. They argue with each other, run valuations, score risk, and land on a decision together. Ships as a web app and a CLI.
 
-Tech: LangChain, OpenAI, FastAPI, React, Docker, Poetry
+Tech: LangChain, LangGraph, OpenAI, FastAPI, React, Docker
 
 👉 [github.com/maahin-1/ai-hedge-fund](https://github.com/maahin-1/ai-hedge-fund)
 
@@ -64,9 +68,9 @@ Tech: LangChain, OpenAI, FastAPI, React, Docker, Poetry
 
 **📈 Reinforcement Learning Trading Bot**
 
-A multi-asset Q-Learning agent that trades AAPL, MSFT, GOOGL, and SPY simultaneously, going long, short, holding, or closing each position independently. Uses an 11-dimensional state vector including RSI, MACD, Bollinger Bands, ATR, and unrealised PnL. Validated through 4-fold walk-forward evaluation with full transaction cost modelling built in.
+Trades AAPL, MSFT, GOOGL and SPY at the same time using a Q-Learning agent that can go long, short, hold or close on each independently. Built on an 11-feature state vector — RSI, MACD, Bollinger Bands, ATR, unrealised PnL — tested with 4-fold walk-forward validation and full transaction cost modelling.
 
-Tech: Python, Q-Learning, yfinance, NumPy, Pandas, Matplotlib
+Tech: Python, Q-Learning, DQN, yfinance, NumPy, Pandas
 
 👉 [github.com/maahin-1/Reinforcement-Learning-Trading-Bot](https://github.com/maahin-1/Reinforcement-Learning-Trading-Bot)
 
@@ -74,7 +78,7 @@ Tech: Python, Q-Learning, yfinance, NumPy, Pandas, Matplotlib
 
 **📊 Portfolio Efficient Frontier and GBM Simulator**
 
-A Markowitz Efficient Frontier visualizer paired with Geometric Brownian Motion path simulation. Shows the optimal risk-return tradeoff across a multi-asset portfolio. Also includes a limit order book simulator for modelling market microstructure.
+Markowitz Efficient Frontier with Geometric Brownian Motion path simulation. Shows you the real risk-return curve across a multi-asset portfolio. Comes with a limit order book simulator too.
 
 Tech: Python, NumPy, Matplotlib, Seaborn, SciPy
 
@@ -84,9 +88,9 @@ Tech: Python, NumPy, Matplotlib, Seaborn, SciPy
 
 **🏏 IPL Predictive Intelligence Engine**
 
-A real-time AI system that predicts IPL match winners, season champions, and playoff qualifiers, built as a backend intelligence layer for a fantasy sports platform. Uses a three-layer stacked ensemble: four base ML models feed into an XGBoost meta-learner, which then passes a calibrated win probability to an LLM that generates match narratives, confidence tags, risk flags, and fantasy captain picks. Outputs 11 live signals via REST, WebSocket, and webhooks with an end-to-end latency SLA under 30 seconds.
+Three-layer ML ensemble that predicts IPL match winners, season champions and playoff spots in real time. Four base models feed into an XGBoost meta-learner, which hands calibrated probabilities to an LLM that writes match narratives, confidence tags and fantasy captain picks. Serves 11 signals via REST, WebSocket and webhooks under 30 seconds end-to-end.
 
-Tech: Python, XGBoost, LightGBM, FastAPI, Kafka, Redis, Claude API, Feast, MLflow
+Tech: Python, XGBoost, LightGBM, FastAPI, Kafka, Redis, Claude API, MLflow
 
 👉 [github.com/maahin-1/IPL-Winner-Predictor](https://github.com/maahin-1/IPL-Winner-Predictor)
 
@@ -94,7 +98,7 @@ Tech: Python, XGBoost, LightGBM, FastAPI, Kafka, Redis, Claude API, Feast, MLflo
 
 **👤 Real-Time Face Recognition System**
 
-A live webcam face recognition system built on OpenCV's LBPH recognizer. A training script processes labeled face images to build a custom recognition model, which then runs in real time detecting faces, eyes, and smiles with identity labeling at every frame. Trained on a custom dataset organized per person with Haar Cascade XML classifiers.
+Live webcam face recognition using OpenCV's LBPH recognizer. Processes labeled face images to train a custom model, then runs in real time — detecting faces, eyes and smiles with identity labels on every frame.
 
 Tech: Python, OpenCV, LBPH, NumPy, Pillow
 
@@ -106,23 +110,35 @@ Tech: Python, OpenCV, LBPH, NumPy, Pillow
 
 **🍪 FlowerCookie — AI Automation Studio**
 
-Building AI automation pipelines for businesses — WhatsApp agents with LangChain, session memory, confidence-based routing, and live Google Sheets knowledge bases. Currently working with EdTech clients.
+Automation pipelines for businesses that are tired of doing the same thing manually. WhatsApp agents with memory, routing logic, and live Google Sheets knowledge bases. Working with EdTech clients right now.
 
 **🥊 CombatIQ — Sports AI Platform**
 
-An AI system for combat sports analysis: MediaPipe pose estimation feeds into fine-tuned video models which output LLM coaching reports. Covers boxing, Muay Thai, BJJ, wrestling, and MMA. PRD is done, model pipeline is being built now.
+AI coaching for combat sports. MediaPipe pose estimation goes into fine-tuned video models, output is an LLM-generated coaching report. Boxing, Muay Thai, BJJ, wrestling, MMA. PRD done, pipeline in progress.
 
 <br>
 
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maahin-1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahin-1&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=jupyter%20notebook&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maahin-1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahin-1&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=jupyter%20notebook&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=maahin-1&theme=github-dark-blue&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://streak-stats.demolab.com?user=maahin-1&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maahin-1&theme=github_dark" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maahin-1&theme=github_dark" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maahin-1&theme=github_dark" />
 </p>
 
 <br>
@@ -130,27 +146,28 @@ An AI system for combat sports analysis: MediaPipe pose estimation feeds into fi
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maahin-1&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=maahin-1&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
 
 <br>
 
 ## 📈 Activity
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maahin-1&theme=github-compact&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maahin-1&theme=redical&hide_border=true&area=true" />
 
 <br>
 
 ## 🐍 Contribution snake
 
-![Snake Animation](https://github.com/maahin-1/maahin-1/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/maahin-1/maahin-1/raw/output/github-contribution-grid-snake.svg)
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
 ## 📬 Let's connect
 
-If you have a role, a project, or just something interesting you're building, I'm always open to a conversation.
+Got a role, a project, or something you're building — I'm easy to reach.
 
 📧 [maahinosahan123@gmail.com](mailto:maahinosahan123@gmail.com)
 💼 [linkedin.com/in/maahin-bir-singh-osahan](https://linkedin.com/in/maahin-bir-singh-osahan)
