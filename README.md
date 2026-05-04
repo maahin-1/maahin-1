@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=header&text=Maahin%20Bir%20Singh%20Osahan&fontSize=38&fontColor=00008B&animation=fadeIn&fontAlignY=70" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=header&text=Maahin%20Bir%20Singh%20Osahan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=ML+%2F+AI+Engineer;LLM+Agents+%7C+RAG+Pipelines+%7C+AI+Automation;RL+%7C+Quant+Trading+Systems;Building+%40FlowerCookie" alt="Typing SVG" />
@@ -117,12 +117,12 @@ An AI system for combat sports analysis: MediaPipe pose estimation feeds into fi
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maahin-1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahin-1&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maahin-1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahin-1&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=jupyter%20notebook&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=maahin-1&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=maahin-1&theme=github-dark-blue&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
 <br>
@@ -143,10 +143,9 @@ An AI system for combat sports analysis: MediaPipe pose estimation feeds into fi
 
 ## 🐍 Contribution snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maahin-1/maahin-1/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/maahin-1/maahin-1/output/github-snake.svg" />
-</picture>
+![Snake Animation](https://github.com/maahin-1/maahin-1/blob/output/github-contribution-grid-snake.svg)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <br>
 
 ## 📬 Let's connect
@@ -163,4 +162,3 @@ If you have a role, a project, or just something interesting you're building, I'
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer&animation=fadeIn" />
-
