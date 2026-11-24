@@ -1,12 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=header&text=Maahin%20Bir%20Singh%20Osahan&fontSize=38&fontColor=58A6FF&animation=fadeIn&fontAlignY=70" />
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=ML+and+AI+Engineer;LLM+Agents+%7C+RAG+Pipelines+%7C+AI+Automation;RL+%7C+Quant+Trading+Systems;Building+%40FlowerCookie" alt="Typing SVG" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=maahin-1&style=flat-square&color=58a6ff&label=Profile+views" alt="Profile Views"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maahin-1&style=flat-square&color=58a6ff&label=Profile+views" />
-  &nbsp;
+<h1>Maahin Bir Singh Osahan</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=ML+and+AI+Engineer;LLM+Agents+%7C+RAG+Pipelines+%7C+AI+Automation;RL+%7C+Quant+Trading+Systems;Building+%40FlowerCookie" alt="Typing SVG" />
+
+<p>
   <a href="https://linkedin.com/in/maahin-bir-singh-osahan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" /></a>
   &nbsp;
   <a href="mailto:maahinosahan123@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail" /></a>
@@ -14,7 +14,15 @@
   <img src="https://img.shields.io/badge/Open%20to-Full%20Time%20%7C%20Remote%20%7C%20Freelance-3fb950?style=flat-square" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/maahin-1/maahin-1/raw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/maahin-1/maahin-1/raw/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/maahin-1/maahin-1/raw/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
@@ -125,58 +133,6 @@ timeline
     2026 : Founder
          : FlowerCookie, AI automation studio
 ```
-
-<br>
-
-## Featured projects
-
-**Multi Agent AI Fund Manager**
-
-An open source AI fund manager and stock research terminal for the Indian stock market. Multi agent LLM analysts debate and a judge agent scores the result, with XBRL fundamentals, DCF valuation ranges, a live options chain with Greeks, charts and a screener.
-
-Tech: Rust, TypeScript, Python, DuckDB
-
-See [github.com/maahin-1/athena-the-fund-manager](https://github.com/maahin-1/athena-the-fund-manager)
-
-<br>
-
-**Reinforcement Learning Trading Bot**
-
-Trades AAPL, MSFT, GOOGL and SPY at the same time using a Q Learning agent that can go long, short, hold or close on each independently. Built on an 11 feature state vector, RSI, MACD, Bollinger Bands, ATR, unrealised PnL, tested with 4 fold walk forward validation and full transaction cost modelling.
-
-Tech: Python, Q Learning, DQN, yfinance, NumPy, Pandas
-
-See [github.com/maahin-1/Reinforcement-Learning-Trading-Bot](https://github.com/maahin-1/Reinforcement-Learning-Trading-Bot)
-
-<br>
-
-**Portfolio Efficient Frontier and GBM Simulator**
-
-Markowitz Efficient Frontier with Geometric Brownian Motion path simulation. Shows the real risk return curve across a multi asset portfolio, with a limit order book simulator included.
-
-Tech: Python, NumPy, Matplotlib, Seaborn, SciPy
-
-See [github.com/maahin-1/Portfolio-Efficient-Frontier](https://github.com/maahin-1/Portfolio-Efficient-Frontier)
-
-<br>
-
-**IPL Predictive Intelligence Engine**
-
-A three layer ML ensemble that predicts IPL match winners, season champions and playoff spots in real time. Four base models feed into an XGBoost meta learner, which hands calibrated probabilities to an LLM that writes match narratives, confidence tags and fantasy captain picks.
-
-Tech: Python, XGBoost, LightGBM, FastAPI, Kafka, Redis, Claude API, MLflow
-
-See [github.com/maahin-1/IPL-Winner-Predictor](https://github.com/maahin-1/IPL-Winner-Predictor)
-
-<br>
-
-**Real Time Face Recognition System**
-
-Live webcam face recognition using OpenCV's LBPH recognizer. Processes labeled face images to train a custom model, then runs in real time detecting faces, eyes and smiles with identity labels on every frame.
-
-Tech: Python, OpenCV, LBPH, NumPy, Pillow
-
-See [github.com/maahin-1/Face-Recognition](https://github.com/maahin-1/Face-Recognition)
 
 <br>
 
@@ -312,14 +268,6 @@ Working with EdTech clients right now.
 ## Activity
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maahin-1&theme=redical&hide_border=true&area=true" />
-
-<br>
-
-## Contribution snake
-
-![Snake Animation](https://github.com/maahin-1/maahin-1/raw/output/github-contribution-grid-snake.svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
